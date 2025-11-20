@@ -1,0 +1,5 @@
+{
+  "name": "SAD & Gov Acts Extractor",
+  "description": "A specialized tool to extract Exonerations, Hirings, and Governor Acts from PDF Official Gazettes using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
